@@ -2,9 +2,8 @@
   "name": "@public-assembly/pdk-components",
   "version": "0.0.1",
   "description": "React components for the Private Destruction Kit project.",
-  "main": "index.js",
-  "scripts": {
-  },
+  "main": "dist/public-assembly-pdk-components.cjs.js",
+  "scripts": {},
   "author": "Public Assembly",
   "license": "MIT"
 }
