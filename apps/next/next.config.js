@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-const withTM = require('next-transpile-modules')(['sample-package'])
+const withTM = require('next-transpile-modules')(['pdk-components'])
 
 const nextConfig = {
   reactStrictMode: true,

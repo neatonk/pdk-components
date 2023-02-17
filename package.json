@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "assemble-package",
-  "version": "1.0.0",
-  "description": "NPM package boilerplate",
+  "name": "pdk-components",
+  "version": "0.0.1",
+  "description": "React components for the Private Destruction Kit project.",
   "main": "index.js",
   "author": "Public Assembly",
   "license": "MIT",
